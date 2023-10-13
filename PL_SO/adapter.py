@@ -1,1 +1,1 @@
-from setting import*
+from PL_SO.setting import*
